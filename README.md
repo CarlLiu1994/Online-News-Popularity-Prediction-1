@@ -1,4 +1,5 @@
 # Online-News-Popularity-Prediction
+*This is a group project done by Hanqiu Yang, Haoyun Peng, Carl liu and Chuxin Piao under guidance from Prof Zhenglin Qi from GWU Decision Science Department.
 
 ## Dataset Review
 Our group chose to use the Online News Popularity Data Set from UCI Machine Learning Repository:https://archive.ics.uci.edu/ml/datasets/Online+News+Popularity
@@ -14,5 +15,6 @@ Besides, the higher the Regularization parameter was, the better the model perfo
 Instead, we convert the regression problem into a classification problem  and will develop some learning algorithms that classify news as popular or unpopular.
 
 ## Algorithms and Performance Overview
+<img width="853" alt="WX20200706-153706@2x" src="https://user-images.githubusercontent.com/55762821/86633437-a6a83180-bf9e-11ea-8d76-205028dedda4.png">
 
 
