@@ -1,5 +1,5 @@
 # Online-News-Popularity-Prediction
-*This is a group project done by Hanqiu Yang, Haoyun Peng, Carl liu and Chuxin Piao under guidance from Prof Zhenglin Qi from GWU Decision Science Department.
+*This is a group project done by Hanqiu Yang, Haoyun Peng, Carl liu and Chuxin Piao under guidance from Prof Zhenglin Qi (GWU Decision Science Department)
 
 ## Dataset Review
 Our group chose to use the Online News Popularity Data Set from UCI Machine Learning Repository:https://archive.ics.uci.edu/ml/datasets/Online+News+Popularity
